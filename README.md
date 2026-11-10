@@ -3,10 +3,17 @@
 Hi!👋 I'm a passionate AI engineer driven by solving complex data challenges.
 
 ## Education  
-- **MSc in Data Science** (03.2025 – 07.3026) | Silesian University of Technology  
+- **MSc in Data Science** (03.2025 – 07.3026) | Silesian University of Technology
+  - **Master thesis:** Continual learning for real-world data
+  - GPA 4.99/5 (distinction)
+  - Honors: Rector’s Merit Scholarship (awarded to top 6% of students)
+
+
 - **BSc in Computer Science** (10.2021 – 02.2025) | Silesian University of Technology  
-  - **Bachelor thesis:** Continual learning for satellite data analysis (Grade: 5.0/5.0)
-  - **Master thesis:** Continual learning for real-world data (ongoing)  
+  - **Bachelor thesis:** Continual learning for satellite data analysis
+  - GPA 4.69/5
+  - Honors: Rector’s Merit Scholarship (awarded to top 6% of students)
+  
 
 
 ## Skills  
