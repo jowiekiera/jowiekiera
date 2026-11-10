@@ -1,9 +1,9 @@
-# Joanna Wiekiera | Machine Learning Specialist
+# Joanna Wiekiera
 
-Hi!👋 I'm a passionate AI engineer driven by solving complex data challenges. I specialize in **anomaly detection, continual learning, and deep learning**, with experience in **satellite data analysis, quantum computing, and AI in education**. My goal is to contribute to cutting-edge AI research and drive technological advancements.
+Hi!👋 I'm a passionate AI engineer driven by solving complex data challenges.
 
 ## Education  
-- **MSc in Data Science** (03.2025 – Present) | Silesian University of Technology  
+- **MSc in Data Science** (03.2025 – 07.3026) | Silesian University of Technology  
 - **BSc in Computer Science** (10.2021 – 02.2025) | Silesian University of Technology  
   - **Bachelor thesis:** Continual learning for satellite data analysis (Grade: 5.0/5.0)
   - **Master thesis:** Continual learning for real-world data (ongoing)  
@@ -15,7 +15,8 @@ Hi!👋 I'm a passionate AI engineer driven by solving complex data challenges. 
 - **Software Development:** OOP, UML, MySQL  
 
 ## Experience  
-- **KP Labs** | *Machine Learning Specialist* (07.2025 – Present)  
+- **Google** | *Customer Engineer* (11.2026 - Present)
+- **KP Labs** | *Machine Learning Specialist* (07.2025 – 10.2026)  
   - Super-resolution, Satellite Imagery
 - **Rockwell Automation** | *Machine Learning Engineer, Internship* (11.2024 – 06.2025)  
   - Anomaly Detection in Telemetry Data (PLC), Deep Learning, Digital Twins  
